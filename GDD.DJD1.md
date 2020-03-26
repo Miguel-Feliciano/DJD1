@@ -7,6 +7,7 @@
 - Objetivos do jogo
 - Controlos e mecânicas
 - Descrição dos agentes de jogo
+- Informações
   
   ---
 O filme que decidimos utilizar como inspiração para este projeto é o Matrix.
