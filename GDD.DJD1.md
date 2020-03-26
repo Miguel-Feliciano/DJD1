@@ -34,7 +34,7 @@ Percorrer cada nível libertando pessoas e destruir um terminal no final de cada
 ---
 ### Controlos e Mecânicas
 Os controlos do jogo serão:
-- A/S  para movimento horizontal
+- A/D  para movimento horizontal
 - W/Space para saltar
 - S para crouch
 - M1 para disparar
